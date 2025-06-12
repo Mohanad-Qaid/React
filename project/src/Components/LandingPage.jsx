@@ -7,10 +7,10 @@ const LandingPage = () => {
     return (
         <div className='mainDiv'>
             <div className="textOne">
-                <h1>TechNova Solutions</h1>
+                <h1>Plants Store</h1>
                 <p className="description">
-                    TechNova Solutions is a leading software development company specializing
-                    in innovative web and mobile applications.
+                    Welcome to Plants Store — your one-stop shop for beautiful, healthy plants and gardening essentials.
+                    Explore our wide selection of indoor and outdoor plants to brighten your home and garden.
                 </p>
             </div>
             <button

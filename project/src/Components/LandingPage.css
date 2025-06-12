@@ -13,13 +13,13 @@
 
 .textOne h1 {
     font-size: 3rem;
-    color: #2c3e50;
+    color: white;
     margin-bottom: 10px;
 }
 
 .textOne .description {
     font-size: 1.2rem;
-    color: #34495e;
+    color: white;
     max-width: 600px;
     margin: 0 auto 30px;
 }
